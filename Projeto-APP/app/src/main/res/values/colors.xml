@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#7e53c5</color>
+    <color name="youWinDark">#000000</color>
+    <color name="youWinBackground">#0F9B8E</color>
+    <color name="gameOverBackground">#F43605</color>
+    <color name="BackgroundButtom">#ffffff</color>
+    <color name="BackgroundButtom2">#000000</color>
+</resources>
